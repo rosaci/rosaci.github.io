@@ -4,7 +4,7 @@
 baseurl: /harmony
 
 # Site live URL
-url: http://gayanvirajith.github.io/harmony
+url: http://rosaci.github.io
 
 # Localhost 
 #url: http://192.168.0.102:4000
@@ -19,7 +19,7 @@ harmony:
   author: # Author details
     name: Gayan Virajith
     email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    url: http://rosaci.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
