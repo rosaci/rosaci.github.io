@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Harmony
 
 Harmony is a responsive jekyll theme. 
@@ -125,3 +126,7 @@ Free / Open sourced under the
 rosaci.github.io
 ================
 >>>>>>> 364875634b5a4bda6f6e94d4e43a5b01ce424180
+=======
+rosaci.github.io
+================
+>>>>>>> 27b826fb664cacb7a1d22b7dd4c4a920b682f5cc
