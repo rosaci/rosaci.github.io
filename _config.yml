@@ -19,7 +19,11 @@ harmony:
   author: # Author details
     name: Gayan Virajith
     email: gayanvirajith@gmail.com
+<<<<<<< HEAD
     url: http://gayanvirajith.github.io
+=======
+    url: http://rosaci.github.io
+>>>>>>> 12451d321c0a5fe6baca125a4f7585785362f7b8
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
