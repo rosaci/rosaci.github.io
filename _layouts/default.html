@@ -1,47 +1,36 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
 
   <body>
 
-    {% include sidebar.html %}
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=81489295682&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
+    <div class="container content">
       <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
-        </div>
+        <h3 class="masthead-title">
+          <img src="{{ site.baseurl }}public/avatar-blaster.png">
+          <a href="{{ site.baseurl }}" title="Home page">{{ site.title }}</a>
+          <small>{{ site.tagline }}</small>
+        </h3>
       </div>
 
-      <div class="container content">
-        {{ content }}
+      {{ content }}
+
+      <div class="footer">
+        <p>
+          &copy; {{ site.title }} is brought to you by {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a> and much ♥, under <a href="{{ site.license.link }}">{{ site.license.label }}</a>.
+        </p>
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
   </body>
 </html>
