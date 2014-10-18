@@ -2,8 +2,8 @@
 markdown:         redcarpet
 
 # Setup
-title:            Grab The Blaster
-tagline:          di Alessio Biancalana
+title:            RadNuclMagn
+tagline:          by Antonino Rosaci
 paginate:         5
 baseurl:          '/'
 url:              'http://rosaci.github.io'
@@ -12,9 +12,9 @@ license:
   link:           'https://creativecommons.org/licenses/by-nc/3.0/'
   label:          'CC BY-NC'
 author:
-  name:           Alessio Biancalana
+  name:           Antonino Rosaci
   url:            http://rosaci.github.io
-  email:          dottorblaster@gmail.com
+  email:          arosaci@icloud.com
 
 # Custom vars
 version:          0.0.9
