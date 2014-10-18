@@ -68,9 +68,12 @@
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
-abount
   </title>
-
+<div class="footer">
+        <p>
+          &copy; {{ site.title }} is brought to you by {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a> and much ♥, under <a href="{{ site.license.link }}">{{ site.license.label }}</a>.
+        </p>
+      </div>
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
