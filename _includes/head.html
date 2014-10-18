@@ -42,6 +42,12 @@
     {% endfor %}
   {% endif %}
 
+<div class="panel">
+        <p>
+          &copy; {{ site.title }} is brought to you by {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a> and much ♥, under <a href="{{ site.license.link }}">{{ site.license.label }}</a>.
+        </p>
+      </div>
+
   <!--   Enable Twitter Cards support through metadata, thanks to http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
 <!--   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@site_username">
@@ -69,12 +75,6 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
-<div class="panel">
-        <p>
-          &copy; {{ site.title }} is brought to you by {{ site.author.name }} with <a href="http://jekyllrb.com/">Jekyll</a> and much ♥, under <a href="{{ site.license.link }}">{{ site.license.label }}</a>.
-        </p>
-      </div>
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
