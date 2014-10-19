@@ -12,7 +12,7 @@ tags:
 - 
 ---
 
-![Begin](https://flic.kr/p/hjkXoz][img]https://farm8.staticflickr.com/7416/10709298673_fbe3ca4f60_z.jpg)
+![Begin](https://farm8.staticflickr.com/7416/10709298673_fbe3ca4f60_c.jpg)
 
 Well, started is very important; when we start to do anythings, stop to do nothing. This blog has been created to ....continue
 
