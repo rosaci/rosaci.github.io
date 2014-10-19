@@ -2,18 +2,18 @@
 markdown:         redcarpet
 
 # Setup
-title:            RadNuclMagn
+title:            MagNuclRad
 tagline:          by Antonino Rosaci
 paginate:         5
 baseurl:          '/'
-url:              'http://rosaci.github.io'
+url:              'http://magnuclrad.com'
 permalink:        '/:year/:month/:title'
 license:
   link:           'https://creativecommons.org/licenses/by-nc/3.0/'
   label:          'CC BY-NC'
 author:
   name:           Antonino Rosaci
-  url:            http://rosaci.github.io
+  url:            http://magnuclrad.com
   email:          arosaci@icloud.com
 
 # Custom vars
