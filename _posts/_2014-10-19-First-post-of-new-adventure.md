@@ -14,7 +14,8 @@ tags:
 
 ![Begin](https://farm8.staticflickr.com/7416/10709298673_fbe3ca4f60_c.jpg)
 
-Well, started is very important; when we start to do anythings, stop to do nothing. This blog has been created to ....continue
+Well, started is very important; when we start to do anythings, stop to do nothing. This blog has been created to ....
+Because I wanted to write and because I think there are too many technology blogs and really too few of **diagnostic imaging** :). Hey guys I don't think to be NYT, this is my small and 
 
 Well, dice che il **15 ottobre** (indiscrezione da confermare - anche se ormai facciamo prima a vedere se tra qualche giorno succede veramente) insieme al disco di debutto degli [abstracts](https://www.facebook.com/abstractsjpn) presentano anche il **Nexus 9**. **HTC** ha fatto veramente un gran lavoro stavolta, esattamente come (secondo me) fece col Nexus One, e se i rumor si confermassero veri avremmo gli elementi per parlare di un nuovo **successone di Google e di Android** su tablet. Quanto era già successo col Nexus 7, infatti, ovvero l'entrata a gamba tesa di Google in un mercato tutto nuovo ponendosi di fatto in maniera totalmente diversa da Apple - la quale puntava ad un dispositivo general purpose, mentre Asus insieme a Google ha dato maggior priorità a operazioni come la lettura, proponendo un fattore di forma decisamente piacevole in modalità portrait, praticamente ridicolo in modalità landscape - si ripeterà con Google che stavolta aggredisce un **fattore di forma decisamente più consono ad un tablet**, con un monitor più ampio e meno stretto.
 
