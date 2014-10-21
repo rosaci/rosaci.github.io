@@ -11,12 +11,8 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-{% for category in page.categories %}
 
-    <meta property="article:tag" content="{{ category }}" />
-
-{% endfor %}
-    <span class="post-date">{{ post.date | date_to_string }} </span>
+    <span class="post-date">{{ post.date | date_to_string }} {{ tag }} </span>
     {{ post.content  | truncatewords: 50 }}
   </div>
   
