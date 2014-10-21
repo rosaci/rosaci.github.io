@@ -14,7 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }} </span>
   </div>
-  {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+  {{ post.content | strip_html | truncatewords: 50 }}
   {% endfor %}
 </div>
 
