@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
     <span class="post-date">{{ post.date | date_to_string }}  </span>
-     {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  
+
 
     {{ post.content  | truncatewords: 50 }}
   </div>
