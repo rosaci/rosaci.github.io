@@ -22,9 +22,10 @@ Let's Go
 
 ### Pages
 
-- **About(http://magnuclrad.com/about)** (quella famosa nuova, a 64 bit, eccetera);
-- **Archive(http://magnuclrad.com/archive)** - mi pareva di aver letto 4GB ma sono sul treno, con la connessione che va e viene, quindi non posso controllare;
-- **?(http://magnuclrad.com/archiveshhshs)**, quindi 2560x1600, ovvero [quello che qualsiasi monitor nel 2014 dovrebbe avere](http://dottorblaster.it/2014/01/mio-regno-4k/);
+- **[About](http://magnuclrad.com/about)** (quella famosa nuova, a 64 bit, eccetera);
+- **[Archive](http://magnuclrad.com/archive)** - mi pareva di aver letto 4GB ma sono sul treno, con la connessione che va e viene, quindi non posso controllare;
+- **[?](http://magnuclrad.com/archiveshhshs)**
 
-_This post is in continue development :)_ 
+_This post is in continue development :)_
+ 
 _25/10/2014 first update_
